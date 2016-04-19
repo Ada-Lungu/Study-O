@@ -1,0 +1,11 @@
+
+.workspace {
+    display: inline-block;
+    height: 200px;
+    background-color: aquamarine;
+    margin-right: 5px;
+}
+
+#workspaces_space {
+    margin-top: 40px;
+}
