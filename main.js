@@ -9,6 +9,7 @@ function login_user_exists() {
         console.log(email);
 
     $.ajax('ajax.php', {
+        method: post,
         data: {"action": "login", "username": email, "password": password},
         dataType: 'json'
 
