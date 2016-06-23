@@ -3,7 +3,7 @@
 Study-O is a project developed for the Web Security course, which focuses on
 implementing best practices of security strategies for a web application.
 
-The strategies used include security measurements against most common types
+The strategies used incorporate security measurements against most common types
 of attacks, such as XSS (Cross-site Scripting), SQL injections, Brute-force Attacks.
 The solutions include using a secured encrypted communication, secured authentication and
 session managemnet, user input validation and sanitization and other overall security approaches.
