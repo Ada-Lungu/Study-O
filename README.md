@@ -6,7 +6,7 @@ implementing best practices of security strategies for a web application.
 The strategies used incorporate security measurements against most common types
 of attacks, such as XSS (Cross-site Scripting), SQL injections, Brute-force Attacks.
 The solutions include using a secured encrypted communication, secured authentication and
-session managemnet, user input validation and sanitization and other overall security approaches.
+session managemnet, user input validation and sanitization, and other overall security approaches.
 
 Study-O is a communication platform for students and professors. The application supports
 the creation of shared workspaces, managed by an administrator(professor) and accesed by numerous users.
